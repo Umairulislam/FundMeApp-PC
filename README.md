@@ -6,18 +6,22 @@ Before running the FundMe App, you must install the Hardhat Fund Me project. You
 
 ## Installation
 Clone this repository using 
-```git clone https://github.com/YOUR-USERNAME/fundme-app.git
+```
+git clone https://github.com/YOUR-USERNAME/fundme-app.git
 ```
 Change into the directory using 
-```cd fundme-app
+```
+cd fundme-app
 ```
 Install dependencies using 
-```npm install
+```
+npm install
 ```
 
 ## Usage
 1. Start the Hardhad network by using
-```yarn hardhat node
+```
+yarn hardhat node
 ```
 2. Start the FundMe App by running on your localhost
 3. Connect your wallet to the app by clicking the "Connect" button and selecting your wallet provider.
