@@ -13,7 +13,7 @@ Before running the FundMe App, you must install the Hardhat Fund Me project. You
 ## Installation
 Clone this repository using 
 ```
-git clone https://github.com/YOUR-USERNAME/fundme-app.git
+git clone https://github.com/Umairulislam/FundMeApp-PC.git
 ```
 Change into the directory using 
 ```
