@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./assets/blockchain.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.fundMeApp {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(2px);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 20px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+button {
+    outline: none;
+    cursor: pointer;
+    background: rgb(64, 68, 79);
+    padding: 8px 20px;
+    border: 1px solid black;
+    font-weight: 600;
+}
+button:hover {
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+div {
+    margin-top: 40px;
+}
+
+input {
+    outline: none;
+    border: 1px solid black;
+    background: rgb(64, 68, 79);
+    padding: 10px;
+    color: black;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 768px) {
+    .fundMeApp {
+        width: 80%;
+        height: 80%;
+        padding: 50px 10px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .fundMeApp {
+        width: 90%;
+        height: 90%;
+        padding: 40px 10px;
+        margin-top: 50px;
+    }
+}
