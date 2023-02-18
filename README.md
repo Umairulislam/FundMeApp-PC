@@ -1,4 +1,6 @@
 # FUNDME APP
+
+## Introduction
 The FundMe App is a web-based application built using HTML, CSS, and JavaScript. This application allows users to connect, get their balance, fund their account, and withdraw funds. The app is built on top of the Hardhat Fund Me project, which must be installed prior to running the application.
 Clone my previous project using 
 ```
@@ -7,7 +9,7 @@ git clone https://github.com/Umairulislam/HardhatFundMe-PC.git
 or simply visit on
 [github.com/Umairulislam](https://github.com/Umairulislam/HardhatFundMe-PC)
 
-# Interface
+## Interface
 ![Screenshot 2023-02-18 144310](https://user-images.githubusercontent.com/64442665/219855626-e55fb917-f77a-4356-8f9f-4dcfc8907a0b.png)
 
 ## Prerequisites
