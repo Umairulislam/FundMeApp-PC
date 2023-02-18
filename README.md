@@ -15,7 +15,20 @@ or simply visit on
 ## Prerequisites
 Before running the FundMe App, you must install the Hardhat Fund Me project. You can do this by cloning the repository from GitHub and following the instructions in the README file.
 
-## Installation
+## Requirements
+1. git 
+This will be used to push your files on GitHub
+2. Metamask
+A browser extension for wallet
+3. NodeJs
+Use for backend and install dependencies
+4. Yarn
+Use for backend and install dependencies 
+
+I have used *yarn*
+***Dont' use Metamask which contain real money***
+
+## Quickstart
 Clone this repository using 
 ```
 git clone https://github.com/Umairulislam/FundMeApp-PC.git
